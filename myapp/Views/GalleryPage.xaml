@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="myapp.Views.GalleryPage"
+             xmlns:vm="clr-namespace:myapp.ViewModels" xmlns:flv="clr-namespace:DLToolkit.Forms.Controls;assembly=DLToolkit.Forms.Controls.FlowListView"
+             Title="{Binding Title}">
+    
+    
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Color x:Key="Accent">#96d1ff</Color>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <StackLayout Padding="10">
+        <flv:FlowListView FlowColumnCount="3"   
+                SeparatorVisibility="Default"   
+                HasUnevenRows="True"  
+                FlowItemTappedCommand="{Binding ItemTappedCommand}"   
+                FlowItemsSource="{Binding Videos}">
+
+            <flv:FlowListView.FlowColumnTemplate>
+                <DataTemplate>
+                    <Frame BackgroundColor="#40798C"  
+                Margin="5">
+                        <Label HorizontalOptions="Fill"   
+                    VerticalOptions="Fill"   
+                    TextColor="White"  
+                    XAlign="Center"  
+                    YAlign="Center"   
+                    Text="{Binding Name }"/>
+                    </Frame>
+                </DataTemplate>
+            </flv:FlowListView.FlowColumnTemplate>
+        </flv:FlowListView>
+    </StackLayout>
+
+</ContentPage>

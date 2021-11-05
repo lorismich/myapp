@@ -1,0 +1,22 @@
+﻿using myapp.Views;
+using System;
+using Xamarin.Forms;
+
+namespace myapp
+{
+    public partial class AppShell : Xamarin.Forms.Shell
+    {
+        public AppShell()
+        {
+            InitializeComponent();
+
+            Routing.RegisterRoute(nameof(GalleryPage), typeof(GalleryPage));
+          
+        }
+
+        private async void OnMenuItemClicked(object sender, EventArgs e)
+        {
+            await Shell.Current.GoToAsync("//LoginPage");
+        }
+    }
+}

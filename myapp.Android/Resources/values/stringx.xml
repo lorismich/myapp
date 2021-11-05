@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+	<string name="notification_channel_name">FISI Server</string>
+	<string name="notification_channel_description">Notifiche relative al servizio server FISI</string>
+
+	<string name="notification_server_content_title">FISI Server</string>
+	<string name="notification_server_content_text">Il server è in ascolto per nuovi contenuti. IP: </string>
+	<string name="notification_server_content_text_not_connected">Nessun wifi connesso</string>
+
+	<string name="notification_client_content_title">FISI Client</string>
+	<string name="notification_client_content_text">Il client è pronto per l\'invio nuovi contenuti. </string>
+	<string name="notification_client_content_text_not_connected">Nessun wifi connesso</string>
+
+	<string name="notification_on_receive_file">Ricezione file</string>
+	<string name="notification_on_send_file">Invio file</string>
+
+	<string name="notification_on_server_connected">Server connesso</string>
+	<string name="notification_on_server_not_connected">Server non connesso</string>
+
+	<string name="record">REC</string>
+	<string name="stop">Stop</string>
+	<string name="gallery">Gallery</string>
+	
+	
+</resources>

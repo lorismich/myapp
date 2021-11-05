@@ -1,0 +1,35 @@
+D:\AllIN\Projects\Xamarin\Fisi\FISI\FISI\obj\Debug\netstandard2.0\FISI.GeneratedMSBuildEditorConfig.editorconfig
+D:\AllIN\Projects\Xamarin\Fisi\FISI\FISI\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\AllIN\Projects\Xamarin\Fisi\FISI\FISI\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+D:\AllIN\Projects\Xamarin\Fisi\FISI\FISI\obj\Debug\netstandard2.0\Views\CameraPage.xaml.g.cs
+D:\AllIN\Projects\Xamarin\Fisi\FISI\FISI\obj\Debug\netstandard2.0\Views\GalleryPage.xaml.g.cs
+D:\AllIN\Projects\Xamarin\Fisi\FISI\FISI\obj\Debug\netstandard2.0\Views\SettingsPage.xaml.g.cs
+D:\AllIN\Projects\Xamarin\Fisi\FISI\FISI\obj\Debug\netstandard2.0\FISI.AssemblyInfoInputs.cache
+D:\AllIN\Projects\Xamarin\Fisi\FISI\FISI\obj\Debug\netstandard2.0\FISI.AssemblyInfo.cs
+D:\AllIN\Projects\Xamarin\Fisi\FISI\FISI\obj\Debug\netstandard2.0\FISI.csproj.CoreCompileInputs.cache
+D:\AllIN\Projects\Xamarin\Fisi\FISI\FISI\bin\Debug\netstandard2.0\FISI.deps.json
+D:\AllIN\Projects\Xamarin\Fisi\FISI\FISI\bin\Debug\netstandard2.0\FISI.dll
+D:\AllIN\Projects\Xamarin\Fisi\FISI\FISI\bin\Debug\netstandard2.0\ref\FISI.dll
+D:\AllIN\Projects\Xamarin\Fisi\FISI\FISI\bin\Debug\netstandard2.0\FISI.pdb
+D:\AllIN\Projects\Xamarin\Fisi\FISI\FISI\obj\Debug\netstandard2.0\XamlC.stamp
+D:\AllIN\Projects\Xamarin\Fisi\FISI\FISI\obj\Debug\netstandard2.0\FISI.dll
+D:\AllIN\Projects\Xamarin\Fisi\FISI\FISI\obj\Debug\netstandard2.0\ref\FISI.dll
+D:\AllIN\Projects\Xamarin\Fisi\FISI\FISI\obj\Debug\netstandard2.0\FISI.pdb
+D:\AllIN\Projects\Xamarin\Fisi\FISI\FISI\obj\Debug\netstandard2.0\FISI.csproj.AssemblyReference.cache
+D:\AllIN\Projects\Xamarin\Fisi\FISI\FISI\obj\Debug\netstandard2.0\Views\AthletesPage.xaml.g.cs
+D:\AllIN\Projects\Xamarin\Fisi\FISI\FISI\obj\Debug\netstandard2.0\Views\AthletesAddPage.xaml.g.cs
+D:\AllIN\Projects\Xamarin\Fisi\FISI - Copia\FISI\obj\Debug\netstandard2.0\FISI.GeneratedMSBuildEditorConfig.editorconfig
+D:\AllIN\Projects\Xamarin\Fisi\FISI - Copia\FISI\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\AllIN\Projects\Xamarin\Fisi\FISI - Copia\FISI\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+D:\AllIN\Projects\Xamarin\Fisi\FISI - Copia\FISI\obj\Debug\netstandard2.0\Views\GalleryPage.xaml.g.cs
+D:\AllIN\Projects\Xamarin\Fisi\FISI - Copia\FISI\obj\Debug\netstandard2.0\FISI.AssemblyInfoInputs.cache
+D:\AllIN\Projects\Xamarin\Fisi\FISI - Copia\FISI\obj\Debug\netstandard2.0\FISI.AssemblyInfo.cs
+D:\AllIN\Projects\Xamarin\Fisi\FISI - Copia\FISI\obj\Debug\netstandard2.0\FISI.csproj.CoreCompileInputs.cache
+D:\AllIN\Projects\Xamarin\Fisi\FISI - Copia\FISI\bin\Debug\netstandard2.0\FISI.deps.json
+D:\AllIN\Projects\Xamarin\Fisi\FISI - Copia\FISI\bin\Debug\netstandard2.0\FISI.dll
+D:\AllIN\Projects\Xamarin\Fisi\FISI - Copia\FISI\bin\Debug\netstandard2.0\ref\FISI.dll
+D:\AllIN\Projects\Xamarin\Fisi\FISI - Copia\FISI\bin\Debug\netstandard2.0\FISI.pdb
+D:\AllIN\Projects\Xamarin\Fisi\FISI - Copia\FISI\obj\Debug\netstandard2.0\XamlC.stamp
+D:\AllIN\Projects\Xamarin\Fisi\FISI - Copia\FISI\obj\Debug\netstandard2.0\FISI.dll
+D:\AllIN\Projects\Xamarin\Fisi\FISI - Copia\FISI\obj\Debug\netstandard2.0\ref\FISI.dll
+D:\AllIN\Projects\Xamarin\Fisi\FISI - Copia\FISI\obj\Debug\netstandard2.0\FISI.pdb
